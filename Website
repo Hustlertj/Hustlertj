@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Thomas_smc's Trading Journey</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            color: #333;
+        }
+        header {
+            background-color: #4CAF50; /* Green */
+            color: white;
+            padding: 10px 0;
+            text-align: center;
+        }
+        section {
+            padding: 20px;
+        }
+        .trading-course {
+            background-color: #FF6347; /* Red */
+            color: white;
+            padding: 20px;
+            border-radius: 5px;
+        }
+        footer {
+            background-color: #333;
+            color: white;
+            text-align: center;
+            padding: 10px 0;
+            position: fixed;
+            width: 100%;
+            bottom: 0;
+        }
+        h1, h2 {
+            margin: 0;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Thomas_smc</h1>
+    </header>
+    <section>
+        <h2>Trading Course</h2>
+        <div class="trading-course">
+            <p>Welcome to my personal page! Here, I share my journey into trading and details about my trading course. I began trading as a way to understand the financial markets better and to seek new investment opportunities. Over time, I developed a comprehensive trading strategy that incorporates various analytical tools and techniques.</p>
+        </div>
+    </section>
+    <section>
+        <h2>How I Started Trading</h2>
+        <p>My trading journey began with a keen interest in financial markets and a desire to improve my investment skills. I started by educating myself through books, online resources, and eventually enrolled in a trading course to gain practical knowledge. The course provided me with a solid foundation in technical analysis, risk management, and trading strategies.</p>
+    </section>
+    <footer>
+        <p>&copy; 2024 Thomas_smc. All rights reserved.</p>
+    </footer>
+</body>
+</html>
